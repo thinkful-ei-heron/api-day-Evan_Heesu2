@@ -1,0 +1,19 @@
+{
+  "name": "shopping-list-starter",
+  "version": "1.0.0",
+  "description": "With Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-heron/api-day-Evan_Heesu2.git"
+  },
+  "author": "Evan and Heesu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-heron/api-day-Evan_Heesu2/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-heron/api-day-Evan_Heesu2#readme"
+}
