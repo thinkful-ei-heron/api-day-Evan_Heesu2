@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/thinkful-ei-heron/api-day-Evan_Heesu2#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
